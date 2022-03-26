@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637932328 source:c:\users\micro\downloads\vetchar2\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1639004657 source:c:\users\micro\downloads\sub2\main.c
+	<stdio.h>
+	<stdlib.h>
+
